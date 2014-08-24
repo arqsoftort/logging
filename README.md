@@ -5,8 +5,8 @@ El presente documento tiene como objetivo ayudar al estudiante a comprender la n
 
 ##Requisitos previos
 Para este laboratorio son necesarios los siguientes items.
--NetBeans IDE o similar
--Archivo .jar de Log4j
+- NetBeans IDE o similar
+- Archivo .jar de Log4j
 
 ##Introducción
 Muchas veces cuando programamos no tenemos en cuenta muchos factores, pero algo que se suele obviar es el uso de logs. Por qué son tan importantes? Los logs representan la forma convencional de “debuggear” en entornos de producción. La idea es colocar trazas en lugares específicos del código que nos puedan ayudar a detectar dónde está ocurriendo un problema y poder solucionarlo, o bien saber qué está haciendo nuestra aplicación o los clientes que la consumen, etc. En fin, hay muchas razones por las cuales debemos usar logs.
